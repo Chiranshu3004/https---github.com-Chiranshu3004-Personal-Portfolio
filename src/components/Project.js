@@ -17,19 +17,19 @@ const Project = () => {
         {
           imgPath: ImgEstate,
           title: 'EstateEase',
-          description: 'Developed a cutting-edge digital note-taking solution using HTML, CSS, Node.js, React.js, and MongoDB. Features include private and secure editing, uploading, and deletion of personal notes, resulting in a 40% improvement in user satisfaction for note organization. The project incorporates robust user authentication via or JWT for token-based security.',
-          ghLink: 'https://github.com/Chiranshu3004/iNotebook',
+          description: 'Developed a comprehensive full stack real estate platform, EstateEase, enabling users to buy, sell, or rent houses with ease. The platform allows users to sign in using Google authentication. In this technologies are used in  HTML, CSS, JavaScript, React.js, Node.js, MongoDB, Express.js. Users can use the search functionality to find specific listings. The goal is to enhance user satisfaction and streamline real estate transactions. ',
+          ghLink: 'https://github.com/Chiranshu3004/EstateEase',
         },
         {
           imgPath: ImgPort,
           title: 'Personal Portfolio',
-          description: 'Developed a cutting-edge digital note-taking solution using HTML, CSS, Node.js, React.js, and MongoDB. Features include private and secure editing, uploading, and deletion of personal notes, resulting in a 40% improvement in user satisfaction for note organization. The project incorporates robust user authentication via or JWT for token-based security.',
-          ghLink: 'https://github.com/Chiranshu3004/iNotebook',
+          description: 'Developed a personal portfolio website using React.js to showcase my skills, projects, and professional information. The project is designed to provide an engaging and informative overview of my qualifications and experience, along with an option for visitors to contact me directly. This project serves as a comprehensive digital resume and collaborators to easily access and review my work, skills, and professional background.',
+          ghLink: 'https://github.com/Chiranshu3004/My-Portfolio',
         },
         {
           imgPath: ImgNtbk,
           title: 'NoteMaster',
-          description: 'Developed a cutting-edge digital note-taking solution using HTML, CSS, Node.js, React.js, and MongoDB. Features include private and secure editing, uploading, and deletion of personal notes, resulting in a 40% improvement in user satisfaction for note organization. The project incorporates robust user authentication via or JWT for token-based security.',
+          description: 'Developed a cutting-edge digital note-taking solution using HTML, CSS, Node.js, React.js, and MongoDB. Features include private and secure editing, uploading, and deletion of personal notes, resulting in a 40% improvement in user satisfaction for note organization. The project incorporates robust user authentication via JWT for token-based security. The intuitive interface and seamless functionality make it an essential tool for efficient note management.',
           ghLink: 'https://github.com/Chiranshu3004/iNotebook',
         },
         {
@@ -60,7 +60,7 @@ const Project = () => {
             imgPath: Imglist,
             title: 'To Do List',
             description: 'Developed a user-friendly to-do list application using HTML, CSS, and JavaScript. This project allows users to add, edit, and delete tasks efficiently, providing a seamless task management experience. ',
-            ghLink: 'https://github.com/Chiranshu3004/iNotebook',
+            ghLink: 'https://github.com/Chiranshu3004/To-Do-List',
           },
           {
             imgPath: ImgClk,
