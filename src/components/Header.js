@@ -18,12 +18,12 @@ const Header = () => {
   return (
     <header className='header'>
       <nav className='nav container'>
-        <Link to='/' className='nav_logo'>CA</Link>
+        <Link to='/My-Portfolio' className='nav_logo'>CA</Link>
 
         <div className={`nav_menu ${menuOpen ? 'show' : ''}`}>
           <ul className="nav__list grid">
             <li className="nav__item">
-              <NavHashLink to="/" className={`nav__link ${getActiveClassName('/')}`} smooth>
+              <NavHashLink to="/My-Portfolio" className={`nav__link ${getActiveClassName('/')}`} smooth>
                 <i className="uil uil-estate nav__icon">&nbsp;&nbsp;</i>Home
               </NavHashLink>
             </li>
