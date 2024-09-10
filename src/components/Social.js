@@ -18,7 +18,7 @@ const Social = () => {
         
     </div>
     <div>
-      <a href="https://drive.google.com/file/d/1NUAeldWtyzEXaFQUbjdCpj8z14R5T54W/view?usp=sharing" className='btn' target="_blank" rel="noopener noreferrer">Download CV</a>
+      <a href="https://drive.google.com/file/d/1gHsGXL8IiJ-CU0a_-NMWZUP27CSiqXpa/view?usp=sharing" className='btn' target="_blank" rel="noopener noreferrer">Download CV</a>
     </div>
     </>
   )
